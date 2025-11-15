@@ -1,9 +1,6 @@
 
 
 
-## `README.md` (Full Theory + Code + Practice)
-
-```markdown
 # C++ Learning Hub 🚀  
 **From Zero to Hero – Step by Step**
 
