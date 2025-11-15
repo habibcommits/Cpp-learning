@@ -1,8 +1,5 @@
-Below is the **updated `README.md`** with **complete theory explanations** added to every section.  
-Just **replace** your old `README.md` with this one (copy-paste).  
-All theory is written in **simple English**, perfect for Pakistani students learning C++ in class.
 
----
+
 
 ## `README.md` (Full Theory + Code + Practice)
 
@@ -421,7 +418,7 @@ g++ -std=c++17 filename.cpp -o output
 
 > Use **Dev-C++**, **Code::Blocks**, or **OnlineGDB.com**
 
----
+
 
 ## 📝 How to Contribute
 1. **Fork** this repo
@@ -435,20 +432,8 @@ g++ -std=c++17 filename.cpp -o output
 *Tag your friends. Share the repo.* 🇵🇰✨
 ```
 
----
 
-## Next Steps (Quick Actions)
 
-1. **Replace** your current `README.md` with the above.
-2. Create **one `.cpp` file per folder** using the example codes.
-3. Add **comments** in code (already included).
-4. Push to GitHub.
 
----
 
-**Want me to generate all `.cpp` files automatically?**  
-Just say:  
-> “Generate all example .cpp files for the repo”
 
-I’ll give you **8 ready-to-copy files** in one message. 🚀
-```
