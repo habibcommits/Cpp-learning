@@ -6,7 +6,7 @@
 
 > A **complete beginner guide** for our class.  
 > **Theory + Code + Practice** in every folder.  
-> Made by **[Your Name]** for classmates.
+> Made by **Habib Hassan** for classmates.
 
 ---
 
